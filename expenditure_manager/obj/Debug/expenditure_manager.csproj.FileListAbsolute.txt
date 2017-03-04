@@ -1,0 +1,12 @@
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\bin\Debug\expenditure_manager.exe.config
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\bin\Debug\expenditure_manager.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\bin\Debug\expenditure_manager.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\bin\Debug\Bunifu_UI_v1.52.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\obj\Debug\expenditure_manager.csprojResolveAssemblyReference.cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\obj\Debug\expenditure_manager.Form1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\obj\Debug\expenditure_manager.Properties.Resources.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\obj\Debug\expenditure_manager.csproj.GenerateResource.Cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\obj\Debug\expenditure_manager.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\obj\Debug\expenditure_manager.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\bin\Debug\BunifuDataViz 1.0.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\expenditure_manager\expenditure_manager\bin\Debug\BunifuDataViz 1.0.pdb
